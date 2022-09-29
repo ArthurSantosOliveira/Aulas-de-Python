@@ -1,6 +1,8 @@
 n = float(input('Digite um número:'))
+
 maiorValor = n
 contador=0
+
 while (n != 0):
     n = float(input('Digite um número:'))
     
